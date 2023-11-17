@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://asdqdsa.github.io/rsschool-cv/cv
+https://asdqdsa.github.io/rsschool-cv/
