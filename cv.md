@@ -6,8 +6,8 @@
 - Discord server: Nikita(@asdqdsa)
 
 ### About
+![image](https://github.com/asdqdsa/rsschool-cv/assets/56947738/06880154-6341-4b79-a54b-802377e1cb77)
 
-![Profile picture](./pfp.jpeg)
 
 Having worked in a software company as a QA engineer has taught me how much I actually didn't know about software engineering and how much I liked working with a group of people building something from scratch and contributing to a common cause.
 
@@ -50,7 +50,7 @@ const maxSequence = function(arr){
 
 ## Work Experience
 
-Have experience in quality assurance for a media platform with administrative purposes of video and photo content. Was made for one of the biggest news agencies in Russia.
+QA for a media platform that manages video, audio and photo content, that was developed for one of the biggest news agencies in Russia.
 
 ## Education
 
