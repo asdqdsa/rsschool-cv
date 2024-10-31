@@ -6,8 +6,8 @@
 - Discord server: Nikita(@asdqdsa)
 
 ### About
-![image](https://github.com/asdqdsa/rsschool-cv/assets/56947738/06880154-6341-4b79-a54b-802377e1cb77)
 
+![image](https://github.com/asdqdsa/rsschool-cv/assets/56947738/06880154-6341-4b79-a54b-802377e1cb77)
 
 Having worked in a software company as a QA engineer has taught me how much I actually didn't know about software engineering and how much I liked working with a group of people building something from scratch and contributing to a common cause.
 
@@ -34,7 +34,7 @@ const maxSequence = function(arr){
   let [summ, acc] = [0, 0];
   for (let val of arr) {
     acc += val;
-		if (acc < 0) acc = 0;
+    if (acc < 0) acc = 0;
     else if (summ < acc) summ = acc;
   }
   return summ;
@@ -54,7 +54,7 @@ QA for a media platform that manages video, audio and photo content, that was de
 
 ## Education
 
-Bachelor degree in Bussiness and Computer Science
+Bachelor degree in Business and Computer Science
 
 ## English Language
 
