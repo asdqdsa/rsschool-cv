@@ -4,24 +4,22 @@
 
 - Email address: melnikovnikita122@yandex.ru
 - Discord server: Nikita(@asdqdsa)
+- Tg: dash_eats
 
 ### About
 
-![image](https://github.com/asdqdsa/rsschool-cv/assets/56947738/06880154-6341-4b79-a54b-802377e1cb77)
+<img src="https://github.com/user-attachments/assets/c7b8c293-60a4-4734-b4d1-dbb75c14373b" width="400" height="400" />
 
-Having worked in a software company as a QA engineer has taught me how much I actually didn't know about software engineering and how much I liked working with a group of people building something from scratch and contributing to a common cause.
+### What I'm up to:
 
-My current goal is to walk the path of a student that wants to become a web developer, so that I could apply my skills and, if lucky, get internship.
-
-I consider myself an open-minded individual that devotes his life to what he trully enjoys. Always intrested in new things. As a hobby I, recently, have picked up Chinese as a third language, and, also, have developed a soft spot for picoCTF.
+Working step by step to finish the rss course, from basics to the framework
 
 # Skills
 
-- Git
-- HTML, CSS
-- JS
-- Linux
-- NVIM, VSCode
+- Git, Linux, NVIM/VSCode
+- HTML/CSS/JS
+- TS/React (beginner)
+- C, Python, SQLite, Node.js (basics)
 
 ## Code Examples
 
